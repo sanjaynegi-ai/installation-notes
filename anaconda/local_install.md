@@ -34,17 +34,13 @@ Anaconda also includes **Conda**, a package and environment manager that helps y
  ![Sign up with Google](./assets/images/sign_up_with_google.png)
  
 5. Select appropriate gmail ID.
-6. Fill-in you Name on next screen (if its shown).
-7. Select role "**Developer**"
-
-  ![Developer role](./assets/images/role.png)
-  
-8. Skip other steps, until you see the following screen.
+6. Fill-in you Name on next screen (if its shown).  
+7. **Skip** other steps, until you see the following screen.
 
   ![Developer installaer](./assets/images/installer.png)
    
-9. Select **Windows 64-Bit Graphical Installer**
-10. This will download the **64-Bit Graphical Installer**, e.g. something like "Anaconda3-2025.12-1-Windows-x86_64.exe"
+8. Select **Windows 64-Bit Graphical Installer**
+9. This will download the **64-Bit Graphical Installer**, e.g. something like "Anaconda3-2025.12-1-Windows-x86_64.exe"
 
 ---
 
