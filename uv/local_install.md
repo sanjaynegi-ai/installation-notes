@@ -28,10 +28,10 @@ python --version
 
 ### Step 1: Install uv
 
-Open **Command Prompt** or **PowerShell** and run:
+Open **PowerShell** and run:
 
 ```bash
-python -m pip install uv
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
 ---
